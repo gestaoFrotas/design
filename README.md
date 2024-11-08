@@ -15,5 +15,7 @@ Maycon Campos
 ATRIBUIÇÃO FRAMES DO FIGMA:
 
 Izadora: Parte de Cadastro: Responsavel por criar a Tela de Login, Cadastro, Esqueceu a senha e tela de redefinir senha. 
+
 Gabriel: Responsavel por criar a Logo do Projeto e o Nome do site, e por nos frames ambos, e ficou responsavel por criar a Tela inicial do supervisor.
+
 Maycon: Responsavel por criar a tela Tela de menu e tela de Exibir dados  do gestor e a tela de senha redefinida com sucesso.
